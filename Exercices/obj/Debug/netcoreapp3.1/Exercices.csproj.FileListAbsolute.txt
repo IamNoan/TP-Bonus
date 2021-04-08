@@ -1,0 +1,11 @@
+/home/epita/RiderProjects/TPBonus/Exercices/bin/Debug/netcoreapp3.1/Exercices
+/home/epita/RiderProjects/TPBonus/Exercices/bin/Debug/netcoreapp3.1/Exercices.deps.json
+/home/epita/RiderProjects/TPBonus/Exercices/bin/Debug/netcoreapp3.1/Exercices.runtimeconfig.json
+/home/epita/RiderProjects/TPBonus/Exercices/bin/Debug/netcoreapp3.1/Exercices.runtimeconfig.dev.json
+/home/epita/RiderProjects/TPBonus/Exercices/bin/Debug/netcoreapp3.1/Exercices.dll
+/home/epita/RiderProjects/TPBonus/Exercices/bin/Debug/netcoreapp3.1/Exercices.pdb
+/home/epita/RiderProjects/TPBonus/Exercices/obj/Debug/netcoreapp3.1/Exercices.csprojAssemblyReference.cache
+/home/epita/RiderProjects/TPBonus/Exercices/obj/Debug/netcoreapp3.1/Exercices.AssemblyInfoInputs.cache
+/home/epita/RiderProjects/TPBonus/Exercices/obj/Debug/netcoreapp3.1/Exercices.AssemblyInfo.cs
+/home/epita/RiderProjects/TPBonus/Exercices/obj/Debug/netcoreapp3.1/Exercices.dll
+/home/epita/RiderProjects/TPBonus/Exercices/obj/Debug/netcoreapp3.1/Exercices.pdb

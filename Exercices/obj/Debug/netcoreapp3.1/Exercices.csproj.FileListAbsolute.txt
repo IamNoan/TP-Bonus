@@ -9,3 +9,16 @@
 /home/epita/RiderProjects/TPBonus/Exercices/obj/Debug/netcoreapp3.1/Exercices.AssemblyInfo.cs
 /home/epita/RiderProjects/TPBonus/Exercices/obj/Debug/netcoreapp3.1/Exercices.dll
 /home/epita/RiderProjects/TPBonus/Exercices/obj/Debug/netcoreapp3.1/Exercices.pdb
+C:\Users\noanc\Documents\Epita\Prog\C#\TP Bonus\Exercices\bin\Debug\netcoreapp3.1\Exercices.exe
+C:\Users\noanc\Documents\Epita\Prog\C#\TP Bonus\Exercices\bin\Debug\netcoreapp3.1\Exercices.deps.json
+C:\Users\noanc\Documents\Epita\Prog\C#\TP Bonus\Exercices\bin\Debug\netcoreapp3.1\Exercices.runtimeconfig.json
+C:\Users\noanc\Documents\Epita\Prog\C#\TP Bonus\Exercices\bin\Debug\netcoreapp3.1\Exercices.runtimeconfig.dev.json
+C:\Users\noanc\Documents\Epita\Prog\C#\TP Bonus\Exercices\bin\Debug\netcoreapp3.1\Exercices.dll
+C:\Users\noanc\Documents\Epita\Prog\C#\TP Bonus\Exercices\bin\Debug\netcoreapp3.1\Exercices.pdb
+C:\Users\noanc\Documents\Epita\Prog\C#\TP Bonus\Exercices\obj\Debug\netcoreapp3.1\Exercices.csprojAssemblyReference.cache
+C:\Users\noanc\Documents\Epita\Prog\C#\TP Bonus\Exercices\obj\Debug\netcoreapp3.1\Exercices.AssemblyInfoInputs.cache
+C:\Users\noanc\Documents\Epita\Prog\C#\TP Bonus\Exercices\obj\Debug\netcoreapp3.1\Exercices.AssemblyInfo.cs
+C:\Users\noanc\Documents\Epita\Prog\C#\TP Bonus\Exercices\obj\Debug\netcoreapp3.1\Exercices.csproj.CoreCompileInputs.cache
+C:\Users\noanc\Documents\Epita\Prog\C#\TP Bonus\Exercices\obj\Debug\netcoreapp3.1\Exercices.dll
+C:\Users\noanc\Documents\Epita\Prog\C#\TP Bonus\Exercices\obj\Debug\netcoreapp3.1\Exercices.pdb
+C:\Users\noanc\Documents\Epita\Prog\C#\TP Bonus\Exercices\obj\Debug\netcoreapp3.1\Exercices.genruntimeconfig.cache

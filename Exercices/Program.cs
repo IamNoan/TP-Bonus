@@ -4,7 +4,8 @@ namespace Exercices
     {
         static void Main(string[] args)
         {
-            Exo3.main();
+            Exercice5 exercice5 = new Exercice5();
+            exercice5.Game();
         }
     }
 }

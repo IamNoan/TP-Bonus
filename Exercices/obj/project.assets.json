@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\noanc\\Documents\\Epita\\Prog\\C#\\TPBonus\\Exercices\\Exercices.csproj",
+      "projectUniqueName": "C:\\Users\\noanc\\Documents\\Epita\\Prog\\C#\\TP Bonus\\Exercices\\Exercices.csproj",
       "projectName": "Exercices",
-      "projectPath": "C:\\Users\\noanc\\Documents\\Epita\\Prog\\C#\\TPBonus\\Exercices\\Exercices.csproj",
+      "projectPath": "C:\\Users\\noanc\\Documents\\Epita\\Prog\\C#\\TP Bonus\\Exercices\\Exercices.csproj",
       "packagesPath": "C:\\Users\\noanc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\noanc\\Documents\\Epita\\Prog\\C#\\TPBonus\\Exercices\\obj\\",
+      "outputPath": "C:\\Users\\noanc\\Documents\\Epita\\Prog\\C#\\TP Bonus\\Exercices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\noanc\\AppData\\Roaming\\NuGet\\NuGet.Config"
